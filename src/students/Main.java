@@ -3,7 +3,7 @@
 a) Вывести средний балл по классу.
 b) Записать в другой файл всех чья оценка меньше 3 баллов.*/
 
-package Students;
+package students;
 
 import java.io.*;
 

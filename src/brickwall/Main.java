@@ -2,7 +2,7 @@
 Определить пройдет ли кирпич в отверстие.
 Например кирпич со сторонами 2,3,2 не пройдет в отверстие 1x50.*/
 
-package BrickAgainstTheWall;
+package brickwall;
 
 public class Main {
     public static void main(String[] args) {

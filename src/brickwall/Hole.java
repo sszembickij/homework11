@@ -1,4 +1,4 @@
-package BrickAgainstTheWall;
+package brickwall;
 
 import java.util.Arrays;
 

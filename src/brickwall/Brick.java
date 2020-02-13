@@ -1,4 +1,4 @@
-package BrickAgainstTheWall;
+package brickwall;
 
 public class Brick {
     int[] dimensions = new int[3];
