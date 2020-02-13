@@ -1,6 +1,6 @@
 /*Закончить задание с фруктами*/
 
-package Fruit;
+package fruit;
 
 public class Main {
 

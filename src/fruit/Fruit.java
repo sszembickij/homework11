@@ -1,4 +1,4 @@
-package Fruit;
+package fruit;
 
 public class Fruit {
 
@@ -61,7 +61,7 @@ public class Fruit {
 
     @Override
     public String toString() {
-        return "Fruit{" +
+        return "fruit{" +
                 "pricePerKg=" + pricePerKg +
                 ", weight=" + weight +
                 ", type=" + type +
